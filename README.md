@@ -21,7 +21,7 @@ Place the file directly into the root directory of this project (next to app.py)
 
 2. Environment Setup
 2.1. Clone the repository
-git clone https://github.com/zaferakdarma/MLPython.git
+git clone https://github.com/zaferakdarma/MLPython.git](https://github.com/zaferakdarma/PythonMLAssignment.git
 cd MLPython
 2.2. Create and activate virtual environment
 python -m venv .venv
